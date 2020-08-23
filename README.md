@@ -1,5 +1,5 @@
 <h1 align="center" background="blue">
-<img src="proffy-home.png" alt="Proffy" width="200px" />
+<img src="proffy-home.png" alt="Proffy" width="600px" />
 </h1>
 
 ## PROJECT
